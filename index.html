@@ -1,4 +1,48 @@
 ---
 layout: home
 author_profile: true
+header:
+  overlay_image: /assets/images/lab-banner.jpg # 建议放一张机器狗实验的照片
+  overlay_filter: 0.5 # 调低数值让背景图更亮
+  caption: "香港科技大学（广州）具身智能实验室"
+excerpt: "致力于机器人强化学习与具身智能的前沿探索"
+
+# 实验室核心方向布局
+feature_row_status:
+  - image_path: /assets/images/isaac-lab.jpg # 放入一张仿真环境截图
+    alt: "Isaac Lab"
+    title: "高保真仿真训练"
+    excerpt: "利用 NVIDIA Isaac Lab 构建大规模强化学习环境，实现复杂地形下的步态进化。"
+  - image_path: /assets/images/quadruped-robot.jpg # 放入一张机器狗照片
+    alt: "Real Robot"
+    title: "具身智能部署"
+    excerpt: "将强化学习模型部署于真机，探索狭隘空间通行与复杂场景交互。"
+
+# 团队成员布局
+feature_row_team:
+  - image_path: /assets/images/member-1.jpg # 你的照片
+    title: "邹孝天 (X. Zou)"
+    excerpt: "研究员 | 四足机器人、强化学习"
+  - image_path: /assets/images/member-2.jpg
+    title: "崔倍荣"
+    excerpt: "硕士生 | 任务流调度"
+  - image_path: /assets/images/member-3.jpg
+    title: "吴梓彬"
+    excerpt: "硕士生 | 计算机视觉、机器臂"
+  - image_path: /assets/images/member-4.jpg
+    title: "刘威"
+    excerpt: "硕士生 | 机器人安全、强化学习"
 ---
+
+## 实验室现状 (Lab Status)
+{% include feature_row id="feature_row_status" %}
+
+---
+
+## 研究团队 (Research Team)
+{% include feature_row id="feature_row_team" %}
+
+---
+
+## 最近进展 (Recent Progress)
+> 目前我们正在攻克机器狗在极窄通道下的自主避障与通行课题。

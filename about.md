@@ -1,9 +1,10 @@
 ---
-title: "关于我 (About Me)"
 layout: single
+title: "关于我"
 permalink: /about/
 author_profile: true
 ---
+
 
 ## 个人简介
 我是 **邹孝天**，目前专注于**机器狗（四足机器人）具身智能**领域的研究。我的工作致力于让机器人能够在复杂、未知的环境中实现高度自主的运动与导航。

@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "个人简介"
+title                    : "实验室简介"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "邹孝天"
-description              : "机器狗具身智能研究者"
+name                     : "大数据具身智能研究所"
+description              : "一群具身智能前沿研究者"
 url                      : "https://jacksonzouxiaotian.github.io"
-baseurl                  : "/minimal-mistakes"# the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
