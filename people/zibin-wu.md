@@ -6,7 +6,7 @@ author_profile: false
 ---
 <div class="profile-card">
   <div class="avatar-wrapper">
-    <img src="{{ '/assets/images/team/wzb.jpg' | relative_url }}" width="220">
+    <img src="{{ '/assets/images/team/wzb.jpg' | relative_url }}" alt="avatar">
   </div>
 </div>
 
