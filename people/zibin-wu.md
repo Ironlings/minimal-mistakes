@@ -5,7 +5,7 @@ permalink: /people/zibin-wu/
 author_profile: false
 ---
 <p align="center">
-  <img src="{ '/assets/images/team/wzb.jpg'}">
+  <img src="{{ '/assets/images/team/wzb.jpg' | relative_url }}">
 </p>
 
 👤 男 / 2002
