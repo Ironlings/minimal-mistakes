@@ -33,7 +33,7 @@ permalink: /engineering/
     </div>
 
     <div class="project-tags">
-      <span class="tag">YOLOv8</span>
+      <span class="tag">YOLOv11</span>
       <span class="tag">FSM</span>
       <span class="tag">Human-Robot Interaction</span>
       <span class="tag">Real-World Deployment</span>
@@ -44,26 +44,26 @@ permalink: /engineering/
 
 <div class="project-card">
   <a href="{{ '/engineering/bag_detection/' | relative_url }}" class="project-image">
-    <img src="{{ '/assets/images/engineering/bag_detection.png' | relative_url }}" alt="Bag Detection & Traversability">
+    <img src="{{ '/assets/images/engineering/bag_detection.png' | relative_url }}" alt="Bag Detection & Grasping">
   </a>
 
   <div class="project-content">
     <h3 class="project-title">
       <a href="{{ '/engineering/bag_detection/' | relative_url }}">
-        Bag Detection & Traversability
+        Bag Detection & Grasping
       </a>
     </h3>
 
     <div class="project-owner">
-      <img src="{{ '/assets/images/team/zibing_wu.jpg' | relative_url }}" alt="Zibing Wu">
-      <span>Zibing Wu</span>
+      <img src="{{ '/assets/images/team/wzb.jpg' | relative_url }}" alt="Zibin Wu">
+      <span>Zibin Wu</span>
     </div>
 
     <div class="project-tags">
-      <span class="tag">Instance Segmentation</span>
-      <span class="tag">Depth Point Cloud</span>
-      <span class="tag">Traversability</span>
-      <span class="tag">Service Robots</span>
+      <span class="tag">SAM 3</span>
+      <span class="tag">RGB-D</span>
+      <span class="tag">ROS2</span>
+      <span class="tag">MoveIt</span>
     </div>
   </div>
 </div>
