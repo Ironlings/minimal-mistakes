@@ -4,9 +4,9 @@ title: "Zibin Wu"
 permalink: /people/zibin-wu/
 author_profile: false
 ---
-
-![img](/assets/images/team/wzb.jpg)
-
+<p align="center">
+  <img src="{ '/assets/images/team/wzb.jpg'}">
+</p>
 
 👤 男 / 2002
 
