@@ -1,11 +1,12 @@
 ---
 layout: single
-title: "zibin-wu"
+title: "Zibin Wu"
 permalink: /people/zibin-wu/
 author_profile: false
 ---
-
-
+<p align="center">
+  <img src="https://github.com/Ironlings/minimal-mistakes/blob/master/assets/images/team/wzb.jpg" width="120" />
+</p>
 
 👤 男 / 2002
 
