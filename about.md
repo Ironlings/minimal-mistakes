@@ -67,4 +67,4 @@ author_profile: true
 ## 联系方式
 如果你对我们的研究感兴趣，或者有合作意向，欢迎通过以下方式联系：
 * **Email**: Ironlings@hkust-gz.edu.cn
-* **GitHub**: [jacksonzouxiaotian](https://github.com/jacksonzouxiaotian)
+* **GitHub**: [Ironlings](https://github.com/Ironlings)
